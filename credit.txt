@@ -1,0 +1,3 @@
+Credit to Rdimo for the injection!
+
+Check out new version of Discord Injection via https://github.com/DamagingRose/Rose-Injector
